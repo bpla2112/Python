@@ -1,0 +1,7 @@
+ftp -hn cnt4713 
+ls
+get theknightswhosayni.txt
+mkd test
+dele test.txt
+ls
+quit

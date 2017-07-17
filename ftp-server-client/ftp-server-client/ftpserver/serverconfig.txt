@@ -1,0 +1,11 @@
+[serverconfig]
+FTP_ROOT = ftpserver/ftproot/
+FTP_MODE = ACTIVE
+DATA_PORT_RANGE_MAX = 32499
+DATA_PORT_RANGE_MIN = 32000
+DATA_PORT_FTP_SERVER = 2124  
+FTP_ENABLED = 1 
+MAX_USER_SUPPORT = 200
+WELCOME_MSG = "Welcome to Bernardo's FTP Server Spring 2017" 
+FTP_LOG = ftpserver/log
+FTP_SERVICE_PORT = 2194

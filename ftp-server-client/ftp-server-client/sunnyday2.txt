@@ -1,0 +1,7 @@
+ftp -hn cnt4713 
+ls
+lpwd
+get test.txt
+mkd test
+ls
+quit

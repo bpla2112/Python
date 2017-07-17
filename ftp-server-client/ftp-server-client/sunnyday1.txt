@@ -1,0 +1,6 @@
+ftp -hn cnt4713 
+ls
+get test.txt
+del test.txt
+ls
+quit
